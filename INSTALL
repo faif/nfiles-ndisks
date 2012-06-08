@@ -1,0 +1,18 @@
+Note: This is not a standalone application. It needs the GAlib library 
+to work. The examples should run in any operating system with GAlib installed.
+To install the application, do the following:
+
+- Go into the ga directory and type `make' to build a copy of GAlib for your system.
+
+$ cd ga
+$ make
+
+- Go into the directory of the example you wish to run, and simply type 
+`make'. 
+
+$ cd src/n_files_disk/
+$ make
+
+- Execute the example from a terminal application as an ordinary POSIX file
+
+$ ./nfiles_disk

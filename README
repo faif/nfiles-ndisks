@@ -1,0 +1,14 @@
+The programs are two examples which use the evolutionary computation 
+field to find an optimum optimization in a constraint-based problem.
+
+More particularly a genetic algorithm is used in both cases.
+
+The first problem concerns fitting a random number of files with a 
+random size each, in a disk of random size.
+
+The second problem is like the first, but uses a random number of disks 
+instead of just one.
+
+Have fun! 
+
+Sakis
